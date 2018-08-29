@@ -1,2 +1,2 @@
-# Road Running
-Codeigniter project for roadrunning.co.za
+# Johan Havenga
+Codeigniter project for johanhavenga.co.za
